@@ -5,6 +5,7 @@ public class NoBullying {
 	System.out.println("Passo 2: Apoio psicológico nas escolas ");
 	System.out.println("Passo 3: Sempre se colocar no lugar do outro!");
 	System.out.println("Passo 4: Conversar com os pais e amigos mais próximos sobre os problemaas");
+	System.out.println("Passo 5: oferecer ajuda a quem precisa");
 	
 	}
 } 
