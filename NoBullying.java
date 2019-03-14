@@ -8,5 +8,6 @@ public class NoBullying {
 	System.out.println("Passo 5: oferecer ajuda a quem precisa.");
 	System.out.println("Passo 6: Prestar atenção no comportamento do amigo.");
 	System.out.println("Passo 7: não julgar ninguem pelo seus atos,apenas ouvir.");
+	System.out.println("Passo 8: se perceber que seu amigo estiver triste com alguma coisa avise aos pais dele");
 	}
 } 
