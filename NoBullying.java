@@ -11,5 +11,6 @@ public class NoBullying {
 	System.out.println("Passo 8: se perceber que seu amigo estiver triste com alguma coisa avise aos pais dele");
 	System.out.println("Passo 9: Para problemas mais sérios procurar um profissional da psicológia");
 	System.out.println("Passo 10: Abordar o tema nas escolas independente da idade");
+	System.out.println("Passo Extra: Chamar o batman ");
 	}
 } 
